@@ -1,0 +1,3 @@
+# Project exclude paths
+/flink-project1/target/
+/flink-wc/target/
